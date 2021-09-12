@@ -1,6 +1,10 @@
 # rightmove-spreadsheet
 A Google Apps script to automatically populate a Google Sheet with property data from Rightmove, given a property address.
 
+It should eventually look a bit like this:
+![Disclaimer: these are not properties that I'm viewing...](https://user-images.githubusercontent.com/44006267/132998672-1915e65c-e298-4fb3-b811-06000b9d9c7a.png)
+If setup correctly, you should be able to paste a Rightmove link into the column on the left, and the other fields will be automatically populated.
+
 ## Script Setup
 
 - Make a new spreadsheet.
